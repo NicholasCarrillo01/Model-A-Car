@@ -8,5 +8,31 @@
 
 import Foundation
 
+print("hey hows it going")
+
+
+print("It's going pretty well")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
