@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6B96988620F7AB1900848B59 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B96988520F7AB1900848B59 /* Car.swift */; };
+		6B96988820F7D6BE00848B59 /* stinger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B96988720F7D6BE00848B59 /* stinger.swift */; };
 		6BA0DAF820F6708E007DF9E9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA0DAF720F6708E007DF9E9 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		6B96988520F7AB1900848B59 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		6B96988720F7D6BE00848B59 /* stinger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stinger.swift; sourceTree = "<group>"; };
 		6BA0DAF420F6708E007DF9E9 /* Model A Car */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Model A Car"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BA0DAF720F6708E007DF9E9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +63,7 @@
 			children = (
 				6BA0DAF720F6708E007DF9E9 /* main.swift */,
 				6B96988520F7AB1900848B59 /* Car.swift */,
+				6B96988720F7D6BE00848B59 /* stinger.swift */,
 			);
 			path = "Model A Car";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B96988820F7D6BE00848B59 /* stinger.swift in Sources */,
 				6B96988620F7AB1900848B59 /* Car.swift in Sources */,
 				6BA0DAF820F6708E007DF9E9 /* main.swift in Sources */,
 			);

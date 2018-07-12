@@ -64,7 +64,7 @@ class Car {
         }
             print("this car is currently going \(speed) MPH")
     }
-}
+
 
 
 func crash() {
@@ -83,7 +83,7 @@ func burnout() {
 }
 
 
-
+}
 
 
 

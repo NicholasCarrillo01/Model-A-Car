@@ -13,8 +13,22 @@ let myCar = Car(make: "Toyota", model: "Supra", numberDoors: 2, seats: 4, horseP
 for _ in 1...10 {
 myCar.accelerate()
 
-}
 
+    
+    let newCar = Stinger(make: "Kia", model: "Stinger", numberDoors: 4, seats: 5, horsePower: 365, engineSize: "v6", color: "red", hasGas: true, tintedWindows: true, spoiler: true, sunroof: true)
+
+print(newCar.sunroof)
+
+
+newCar.horn()
+newCar.decelerate()
+newCar.accelerate()
+newCar.crash()
+newCar.openSunroof()
+    
+    
+    
+}
 
 
 
